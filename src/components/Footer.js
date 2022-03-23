@@ -10,6 +10,7 @@ function Footer() {
         <Col md="4" className="footer-copywright">
           <h3>Designed and Developed by Kalpana Tamatam</h3>
         </Col>
+        <Col />
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
             <li className="social-icons">

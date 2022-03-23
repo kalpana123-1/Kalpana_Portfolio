@@ -114,7 +114,7 @@ button:focus {
 
 .navbar-toggler span:nth-child(1),
 .navbar-toggler span:nth-child(3) {
-  transition: transform 0.35s ease-in-out !important;
+  transition: transform 0.55s ease-in-out !important;
   transition: transform 0.35s ease-in-out !important;
 }
 

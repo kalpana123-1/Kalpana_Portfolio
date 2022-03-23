@@ -2,7 +2,7 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import myImg from "../../Assets/Projects/avatar.png";
 import Tilt from "react-parallax-tilt";
-import { AiFillGithub, AiOutlineTwitter } from "react-icons/ai";
+import { AiFillGithub, AiOutlineTwitter, AiFillMail } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
 
 function Home2() {
@@ -131,6 +131,16 @@ function Home2() {
                   className="icon-colour  home-social-icons"
                 >
                   <FaLinkedinIn />
+                </a>
+              </li>
+              <li className="social-icons">
+                <a
+                  href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMSqRbLQdMvMfKWchMTTLRxWCzjsdNzSFCCThXpllCPSDQxqhNDXTdftQQxvqZmbkDGZVzk"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="icon-colour  home-social-icons"
+                >
+                  <AiFillMail />
                 </a>
               </li>
             </ul>

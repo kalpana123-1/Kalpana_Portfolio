@@ -9,7 +9,7 @@ import "react-pdf/dist/esm/Page/AnnotationLayer.css";
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
 const resumeLink =
-  "https://raw.githubusercontent.com/kalpana123-1/Kalpana_Portfolio/main/src/Assets/fw11_174_Kalpana_Tamatam.pdf";
+  "https://raw.githubusercontent.com/kalpana123-1/Kalpana_Portfolio/main/src/Assets/Kalpana_Tamatam_Resume.pdf";
 
 function ResumeNew() {
   const [width, setWidth] = useState(1200);

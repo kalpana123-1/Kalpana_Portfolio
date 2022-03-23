@@ -94,7 +94,7 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                href="https://blogs.soumya-jit.tech/"
+                href="https://medium.com/@kalpanathamatam1822000"
                 target="_blank"
                 rel="noreferrer"
               >
